@@ -1,0 +1,14 @@
+Ticket #101:
+User cannot reset password. Error says "invalid token".
+
+Ticket #102:
+Payment deducted but order not confirmed.
+
+Ticket #103:
+App crashes on login after latest update.
+
+Ticket #104:
+User wants refund for accidental subscription renewal.
+
+Ticket #105:
+Email verification link not working.

@@ -1,0 +1,14 @@
+Password Reset:
+If the reset token is invalid, ask the user to request a new reset link.
+
+Payment Issues:
+If payment is deducted but order is not confirmed, verify transaction ID and initiate refund if needed.
+
+App Crash:
+Advise user to clear cache or reinstall app.
+
+Refund Policy:
+Subscriptions renewed accidentally within 24 hours are eligible for refund.
+
+Email Verification:
+Ask the user to check spam folder or resend verification email.
